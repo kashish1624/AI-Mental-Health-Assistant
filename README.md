@@ -41,7 +41,7 @@ An offline, secure, and intelligent mental wellness application that provides em
 3. Run the app:
 
    ```bash
-   python main.py
+   python login_window.py
 
 4. Use the dashboard to take quizzes, track moods, breathe mindfully, and reflect daily!
 
