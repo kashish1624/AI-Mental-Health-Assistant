@@ -1,7 +1,0 @@
-assets/placeholder.txt
-
-
-
-
-
-create correct assets folder
